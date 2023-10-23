@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\Lordleojz\anaconda3\Scripts\black.exe" />
+    <option name="sdkName" value="bioinfo" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="bioinfo" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="file://D:/Documentos/CUCEI/Delfín/Tools/Bioinformatics.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="D:/Documentos/CUCEI/Delfín/Tools/Bioinformatics.html" />
+              <option name="outputDirectoryUrl" value="file://D:/Documentos/CUCEI/Delfín/Tools" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
